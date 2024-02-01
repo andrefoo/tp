@@ -19,6 +19,11 @@ public class AppParameters {
 
     private Path configPath;
 
+    /**
+     * something
+     * @return
+     */
+
     public Path getConfigPath() {
         return configPath;
     }
